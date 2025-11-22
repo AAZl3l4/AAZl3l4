@@ -1,3 +1,5 @@
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=AAZl3l4)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20World)
 
 - 👋 Hi, I’m @AAZl3l4
@@ -9,6 +11,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAZl3l4) 
-
-
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=AAZl3l4)
